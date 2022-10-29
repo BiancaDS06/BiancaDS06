@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Bianca D. Siqueira 06
 
 - 🔭 Hoje procuro uma oportunidade no Front-end
-- 🌱 Estudando Angular
+- 🌱 Estudando Angular e React
 - 😄 Pronouns: ela/dela
 
 <div align="center">
