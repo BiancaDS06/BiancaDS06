@@ -1,6 +1,5 @@
 ## Olá! Eu sou a Bianca D. Siqueira 06
 
-- 🔭 Hoje procuro uma oportunidade no Front-end
 - 🌱 Vue.js
 - 😄 Pronouns: ela/dela
 
